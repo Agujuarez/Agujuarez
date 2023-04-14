@@ -1,6 +1,6 @@
 ## Hola, Mi nombre es Agustin Juarez 👋
 ___
-#### Programador Web full-stack
+#### Programador Web
 
 ![gif](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
