@@ -1,4 +1,16 @@
-### Hi there 👋
+## Hola, Mi nombre es Agustin Juarez 👋
+___
+#### Programador Web full-stack
+
+![gif](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+
+#### Tecnologias
+___
+* HTML
+* CSS
+* JavaScript
+
+🌱 Actualmente estoy aprendiendo Python, SQL y Java.
 
 <!--
 **Agujuarez/Agujuarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
