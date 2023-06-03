@@ -10,6 +10,8 @@ ___
 * CSS
 * JavaScript
 * Flexbox
+* NodeJs
+* React
 
 🌱 Actualmente estoy aprendiendo Python, SQL y Java.
 
