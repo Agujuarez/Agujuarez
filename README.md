@@ -12,8 +12,9 @@ ___
 * Flexbox
 * NodeJs
 * React
+* SQL
 
-🌱 Actualmente estoy aprendiendo Python, SQL y Java.
+🌱 
 
 <!--
 **Agujuarez/Agujuarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
