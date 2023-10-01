@@ -13,6 +13,7 @@ ___
 * NodeJs
 * React
 * SQL
+* Typescript
 
 🌱 
 
