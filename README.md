@@ -13,9 +13,11 @@ ___
 * NodeJs
 * React
 * SQL
+* MongoDb
 * Typescript
+* Nest
 
-🌱 
+- 🌱 Actualmente aprendiendo Selenium
 
 <!--
 **Agujuarez/Agujuarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
